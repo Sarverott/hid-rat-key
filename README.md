@@ -1,5 +1,5 @@
 # hid-rat-key
-badUSB project for common use with custom payloads written in rattish language 
+badUSB project for common use with custom payloads written in rattish language
 ```
 
 
@@ -25,14 +25,13 @@ badUSB project for common use with custom payloads written in rattish language
            ╓╦╣▀█▀       ▀       ▀██▓█▄▄▓█▀       ╔▓▓▓▓▓▓▓▀╨
          ╓╨ _/                     ║▌ | ▌     ,╬▓▓▓▓▓▓▓╨  
         /  /                        ▌ | ▌   ╔╬▓▓▓
-       /  /                         ▐▄█▄▌  ▓▓▓▓▓▓▓╨     THAT PRETTY TINY RAPID RAT
-          '                            ╗╬▓▓▓               WILL MAKE YOU HACKED
-                                    ╔╬▓▓▓▓▓▓
-                                 ,╔▓▓▓▓▓
+       /  /                         ▐▄█▄▌  ▓▓▓▓▓▓▓╨     IT'S PRETTY TINY RAPID RAT
+          '                            ╗╬▓▓▓               GOOD PARTNER FOR BLACK HAT
+                                    ╔╬▓▓▓▓▓▓           CAN BE LEARNED EVERY TRICK
+                                 ,╔▓▓▓▓▓              WILL DO THE JOB BEFORE YOU SQUEAK
                                ╔╬▓▓▓▓▓▓M
                               ╔▓▓
                              .▓▓▓▀
-                             
-                             
+
+
 ```
-   
